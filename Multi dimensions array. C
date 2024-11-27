@@ -1,0 +1,6 @@
+printf("%d",matrix[i][j]
+}
+printf("n");
+}
+return0;
+}
